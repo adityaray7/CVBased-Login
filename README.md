@@ -26,8 +26,8 @@ and uncomment line 19 replacing with path of GeckoDriverManager to prevent insta
 
 # **Functioning**
 
-**While running the program and camera, press Q to exit the camera and open the webpage.
-Also you can capture and save the camera feed and enter name of the person in the camera feed to 
+**While running the program and camera, press 'Q' to exit the camera and open the webpage.
+Also you can capture by clicking 'S' and save the camera feed and enter name of the person in the camera feed to 
 train the model with the person's image.**
 
 
