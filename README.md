@@ -3,15 +3,7 @@ Code to open IIT Mandi moodle using computer vision
 
 **1) Run the following commands to download libraries:**
 
-import cv2
-
-import time
-
-import os
-
-import torch
-
-import numpy as np
+pip install opencv-python 
 
 
 **2)** Enter names of users you want to authorize in userauth list in user.py
