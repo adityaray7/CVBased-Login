@@ -1,9 +1,9 @@
 # Face Recognition System
 
-## Summary
+# Summary
 This project is a face recognition system that uses the MTCNN and InceptionResnetV1 models to detect and recognize faces from images or webcam feed. The system matches detected faces with a pre-trained database of known faces and labels them accordingly. If the detected face matches an authorized user's face, it allows access to certain functionalities.
 
-## Methodology
+# Methodology
 The face recognition system utilizes a combination of two powerful deep learning models:
 
 1. Multi-Task Cascaded Convolutional Networks (MTCNN):
