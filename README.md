@@ -49,10 +49,10 @@ Please note that the geckodriver-autoinstaller library is used to automatically 
 `# browser = webdriver.Firefox(executable_path='/home/aditya/geckodriver')`
 Replace '/home/aditya/geckodriver' with the path to your geckodriver executable.
 
-# Configuration
+## Configuration
 No specific configuration is required for this project.
 
-# Data
+## Data
 The system uses a database of pre-registered faces for recognition. Place the images of authorized users in the 'photos' folder. Each user's images should be placed in a separate folder named after the user.
 
 # How to Use
